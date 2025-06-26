@@ -1,4 +1,5 @@
 ## Hi there, aya adel with you👋<h2>Hey 👋, I'm <a href="YOUR_LINKEDIN_OR_PORTFOLIO_HERE">Aya Adel</a></h2>
+<h2>Hey 👋, I'm <a href="YOUR_LINKEDIN_OR_PORTFOLIO_HERE">Aya Adel</a></h2>
 <p>I'm a passionate <strong>Data Science student</strong> always eager to learn and grow in the field. Based in 🇪🇬 Egypt, I'm currently focused on expanding my knowledge in data analysis, machine learning, and statistical modeling. I enjoy working on hands-on projects and exploring new datasets to uncover insights.</p>
 
 <p>
@@ -7,9 +8,9 @@
     <a href="YOUR_PORTFOLIO_WEBSITE_URL"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=YOUR_PORTFOLIO_WEBSITE_URL" alt="Website Badge"></a>
     </p>
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBfm65hpC/giphy.gif" alt="Data Science GIF" width="200"/>
-
 ---
+
+<img align="right" src="YOUR_ANIMATED_GIF_URL" alt="A relevant animated GIF" width="200"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
