@@ -1,4 +1,3 @@
-## Hi there, aya adel with you👋<h2>Hey 👋, I'm <a href="YOUR_LINKEDIN_OR_PORTFOLIO_HERE">Aya Adel</a></h2>
 <h2>Hey 👋, I'm <a href="YOUR_LINKEDIN_OR_PORTFOLIO_HERE">Aya Adel</a></h2>
 <p>I'm a passionate <strong>Data Science student</strong> always eager to learn and grow in the field. Based in 🇪🇬 Egypt, I'm currently focused on expanding my knowledge in data analysis, machine learning, and statistical modeling. I enjoy working on hands-on projects and exploring new datasets to uncover insights.</p>
 
@@ -8,9 +7,8 @@
     <a href="YOUR_PORTFOLIO_WEBSITE_URL"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=YOUR_PORTFOLIO_WEBSITE_URL" alt="Website Badge"></a>
     </p>
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ---
-
-<img align="right" src="YOUR_ANIMATED_GIF_URL" alt="A relevant animated GIF" width="200"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -19,7 +17,9 @@
     <li>👨‍💻 Most of my projects and learning progress are available on <a href="https://github.com/YOUR_GITHUB_USERNAME">Github</a>.</li>
     <li>💬 Feel free to ping me about **data cleaning, exploratory data analysis, Python, and SQL!**</li>
     <li>🌱 I’m looking to collaborate on **entry-level data science projects** or **open-source contributions**.</li>
-<img align="right" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/my-data-science-gif.gif" alt="A relevant animated GIF" width="200"/>
+    <li>🎉 Fun Fact: I love exploring new datasets and finding unexpected patterns!</li>
+</ul>
+
 ---
 
 <h2>✒️ Recent Projects/Learnings</h2>
