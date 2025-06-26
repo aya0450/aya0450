@@ -21,7 +21,11 @@
     <li>🌱 I’m looking to collaborate on **entry-level data science projects** or **open-source contributions**.</li>
     <li>🎉 Fun Fact: I love exploring new datasets and finding unexpected patterns!</li>
 </ul>
+<img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
+<p>🍌 Don't forget to get some Potassium 🍌</p>
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ---
 
 <h2>✒️ Recent Projects/Learnings</h2>
